@@ -1,10 +1,10 @@
 {
-  "name": "init-pkg",
+  "name": "init-npm",
   "version": "1.0.0",
   "description": "Initialize your project.",
   "main": "n/a",
   "bin": {
-    "init-pkg": "bin/index.js"
+    "init-npm": "bin/index.js"
   },
   "scripts": {
     "prepare": "npm run build",

@@ -1,8 +1,8 @@
-# init-pkg
+# init-npm
 
 > CLI for initializing NPM project on Github.
 
-[![npm version](https://badge.fury.io/js/init-pkg.svg)](https://badge.fury.io/js/init-pkg)
+[![npm version](https://badge.fury.io/js/init-npm.svg)](https://badge.fury.io/js/init-npm)
 
 ## Prerequisites (Recommend)
 
@@ -17,9 +17,9 @@ $ npm set init.license "MIT"
 ## How to use
 
 ```sh
-$ npx init-pkg
-# or install init-pkg
-# then init-pkg
+$ npx init-npm
+# or install init-npm
+# then init-npm
 ```
 
 ## License
