@@ -18,9 +18,12 @@ $ npm set init.license "MIT"
 
 ```sh
 $ npx init-npm
-# or install init-npm
-# then init-npm
+# or install init-npm globally then run init-npm
 ```
+
+After `init-npm` you just need to add remote repo, and push the commit.
+<br />
+(You can see the current status with `git status`)
 
 ## License
 

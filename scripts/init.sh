@@ -15,6 +15,3 @@ fi
 if [ -z $(npm get init.author.email) ]; then
   npx covgen "$(npm get init.author.email)"
 fi
-
-git add .
-git commit -m "Initial commit"
